@@ -33,12 +33,12 @@ const Contact = () => {
                   EMAIL
                 </h2>
                 <a className="text-indigo-500 leading-relaxed">
-                  karanchefkart@email.com
+                  ankitakamthe15@gmail.com
                 </a>
                 <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">
                   PHONE
                 </h2>
-                <p className="leading-relaxed">+9189369369</p>
+                <p className="leading-relaxed">+919511823726</p>
               </div>
             </div>
           </div>
