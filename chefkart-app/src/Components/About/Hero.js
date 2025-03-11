@@ -29,7 +29,7 @@ const Hero = () => {
             <img
               className="object-cover object-center rounded"
               alt="hero"
-              src="image.png"
+              src="https://github.com/karantec/ChefkarFrontend1/blob/main/public/image.png?raw=true"
             />
           </div>
         </div>
