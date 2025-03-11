@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/chefkart-app/static/css/main.2e3b8d94.css",
-    "main.js": "/chefkart-app/static/js/main.8a9a680a.js",
+    "main.js": "/chefkart-app/static/js/main.76e4c532.js",
     "static/js/393.50e5a5cf.chunk.js": "/chefkart-app/static/js/393.50e5a5cf.chunk.js",
-    "static/js/387.dfdffe13.chunk.js": "/chefkart-app/static/js/387.dfdffe13.chunk.js",
+    "static/js/387.44a00777.chunk.js": "/chefkart-app/static/js/387.44a00777.chunk.js",
     "static/js/847.787e37ff.chunk.js": "/chefkart-app/static/js/847.787e37ff.chunk.js",
     "static/js/303.f5a9c0f4.chunk.js": "/chefkart-app/static/js/303.f5a9c0f4.chunk.js",
     "static/js/426.60d59ad0.chunk.js": "/chefkart-app/static/js/426.60d59ad0.chunk.js",
@@ -19,9 +19,9 @@
     "static/css/286.f5a933cd.chunk.css": "/chefkart-app/static/css/286.f5a933cd.chunk.css",
     "index.html": "/chefkart-app/index.html",
     "main.2e3b8d94.css.map": "/chefkart-app/static/css/main.2e3b8d94.css.map",
-    "main.8a9a680a.js.map": "/chefkart-app/static/js/main.8a9a680a.js.map",
+    "main.76e4c532.js.map": "/chefkart-app/static/js/main.76e4c532.js.map",
     "393.50e5a5cf.chunk.js.map": "/chefkart-app/static/js/393.50e5a5cf.chunk.js.map",
-    "387.dfdffe13.chunk.js.map": "/chefkart-app/static/js/387.dfdffe13.chunk.js.map",
+    "387.44a00777.chunk.js.map": "/chefkart-app/static/js/387.44a00777.chunk.js.map",
     "847.787e37ff.chunk.js.map": "/chefkart-app/static/js/847.787e37ff.chunk.js.map",
     "303.f5a9c0f4.chunk.js.map": "/chefkart-app/static/js/303.f5a9c0f4.chunk.js.map",
     "426.60d59ad0.chunk.js.map": "/chefkart-app/static/js/426.60d59ad0.chunk.js.map",
@@ -37,6 +37,6 @@
   },
   "entrypoints": [
     "static/css/main.2e3b8d94.css",
-    "static/js/main.8a9a680a.js"
+    "static/js/main.76e4c532.js"
   ]
 }
